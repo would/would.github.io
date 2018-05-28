@@ -6,94 +6,30 @@
     <atom:link href="http://jbake.org/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>星期一, 28 五月 2018 14:24:00 +0800</pubDate>
-    <lastBuildDate>星期一, 28 五月 2018 14:24:00 +0800</lastBuildDate>
+    <pubDate>星期一, 28 五月 2018 19:30:51 +0800</pubDate>
+    <lastBuildDate>星期一, 28 五月 2018 19:30:51 +0800</lastBuildDate>
 
     <item>
       <title>第一篇文章</title>
-      <link>http://jbake.org/blog/2017/1.html</link>
+      <link>http://jbake.org/blog/2018/1.html</link>
       <pubDate>星期一, 28 五月 2018 00:00:00 +0800</pubDate>
-      <guid isPermaLink="false">blog/2017/1.html</guid>
+      <guid isPermaLink="false">blog/2018/1.html</guid>
       	<description>
-	&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;开始走上搬砖的代购生涯💪💪💪下面是每个家庭必备的香港药品，口碑超级好，你家的常备药都准备好了吗？[機智][機智]
-黄道益，无比滴，胃仙，猴枣散，白花油，保婴丹，双飞人，虎标，保心安油，喇叭正露丸，日本肝油丸，佩氏驱蚊&amp;#8230;&amp;#8203;等等，有需要的请圈图@我，每周往返香港搬砖[壞笑][壞笑]&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;imageblock&quot;&gt;
-&lt;div class=&quot;content&quot;&gt;
-&lt;img src=&quot;1-1.JPG&quot; alt=&quot;1 1&quot;&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;imageblock&quot;&gt;
-&lt;div class=&quot;content&quot;&gt;
-&lt;img src=&quot;1-2.JPG&quot; alt=&quot;1 2&quot;&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;imageblock&quot;&gt;
-&lt;div class=&quot;content&quot;&gt;
-&lt;img src=&quot;1-3.JPG&quot; alt=&quot;1 3&quot;&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;imageblock&quot;&gt;
-&lt;div class=&quot;content&quot;&gt;
-&lt;img src=&quot;1-4.JPG&quot; alt=&quot;../../pics/1-4.JPG&quot;&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;imageblock&quot;&gt;
-&lt;div class=&quot;content&quot;&gt;
-&lt;img src=&quot;1-5.JPG&quot; alt=&quot;../../pics/1-5.JPG&quot;&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;imageblock&quot;&gt;
-&lt;div class=&quot;content&quot;&gt;
-&lt;img src=&quot;1-6.JPG&quot; alt=&quot;1 6&quot;&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;imageblock&quot;&gt;
-&lt;div class=&quot;content&quot;&gt;
-&lt;img src=&quot;1-7.JPG&quot; alt=&quot;1 7&quot;&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;imageblock&quot;&gt;
-&lt;div class=&quot;content&quot;&gt;
-&lt;img src=&quot;1-8.JPG&quot; alt=&quot;1 8&quot;&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;imageblock&quot;&gt;
-&lt;div class=&quot;content&quot;&gt;
-&lt;img src=&quot;1-9.JPG&quot; alt=&quot;1 9&quot;&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-	</description>
-    </item>
-    <item>
-      <title>Third Post</title>
-      <link>http://jbake.org/blog/2013/third-post.html</link>
-      <pubDate>星期四, 26 九月 2013 00:00:00 +0800</pubDate>
-      <guid isPermaLink="false">blog/2013/third-post.html</guid>
-      	<description>
-	&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel diam purus. Curabitur ut nisi lacus.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;ulist&quot;&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&quot;http://example.org&quot; class=&quot;bare&quot;&gt;http://example.org&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&quot;http://example.org&quot;&gt;Example.org&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;Nam id nisl quam. Donec a lorem sit amet libero pretium vulputate vel ut purus. Suspendisse leo arcu,
-mattis et imperdiet luctus, pulvinar vitae mi. Quisque fermentum sollicitudin feugiat. Mauris nec leo
-ligula. Vestibulum tristique odio ut risus ultricies a hendrerit quam iaculis. Duis tempor elit sit amet
-ligula vehicula et iaculis sem placerat. Fusce dictum, metus at volutpat lacinia, elit massa auctor risus,
-id auctor arcu enim eu augue. Donec ultrices turpis in mi imperdiet ac venenatis sapien sodales. In
-consequat imperdiet nunc quis bibendum. Nulla semper, erat quis ornare tristique, lectus massa posuere
-libero, ut vehicula lectus nunc ut lorem. Aliquam erat volutpat.&lt;/p&gt;
-&lt;/div&gt;
+	
+&lt;p&gt;最新代购消息&lt;/p&gt;
+
+&lt;img src=&quot;../../picture/2018/1-1.JPG&quot;&gt;&lt;/img&gt;
+&lt;img src=&quot;../../picture/2018/1-2.JPG&quot;&gt;&lt;/img&gt;
+&lt;img src=&quot;../../picture/2018/1-3.JPG&quot;&gt;&lt;/img&gt;
+&lt;img src=&quot;../../picture/2018/1-4.JPG&quot;&gt;&lt;/img&gt;
+&lt;img src=&quot;../../picture/2018/1-5.JPG&quot;&gt;&lt;/img&gt;
+&lt;img src=&quot;../../picture/2018/1-6.JPG&quot;&gt;&lt;/img&gt;
+&lt;img src=&quot;../../picture/2018/1-7.JPG&quot;&gt;&lt;/img&gt;
+&lt;img src=&quot;../../picture/2018/1-8.JPG&quot;&gt;&lt;/img&gt;
+&lt;img src=&quot;../../picture/2018/1-9.JPG&quot;&gt;&lt;/img&gt;
+
+&lt;p&gt;欢迎加微信详细了解&lt;/p&gt;
+
 	</description>
     </item>
 
