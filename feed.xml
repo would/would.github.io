@@ -6,9 +6,27 @@
     <atom:link href="http://jbake.org/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>星期一, 28 五月 2018 19:30:51 +0800</pubDate>
-    <lastBuildDate>星期一, 28 五月 2018 19:30:51 +0800</lastBuildDate>
+    <pubDate>星期四, 19 七月 2018 19:25:43 +0800</pubDate>
+    <lastBuildDate>星期四, 19 七月 2018 19:25:43 +0800</lastBuildDate>
 
+    <item>
+      <title>公众号互粉</title>
+      <link>http://jbake.org/weixin/hufen.html</link>
+      <pubDate>星期四, 19 七月 2018 00:00:00 +0800</pubDate>
+      <guid isPermaLink="false">weixin/hufen.html</guid>
+      	<description>
+	
+&lt;p&gt;公众号互粉二维码&lt;/p&gt;&lt;br/&gt;
+
+&lt;p&gt;Amazing的大屋&lt;br/&gt;&lt;img width=&quot;200&quot; height=&quot;200&quot; src=&quot;../../picture/weixin/hufen/1.jpg&quot;&gt;&lt;/img&gt;&lt;/p&gt;
+
+&lt;p&gt;Amazing的小屋&lt;br/&gt;&lt;img width=&quot;200&quot; height=&quot;200&quot; src=&quot;../../picture/weixin/hufen/2.jpg&quot;&gt;&lt;/img&gt;&lt;/p&gt;
+
+&lt;hr/&gt;
+&lt;p&gt;请诚信互粉&lt;/p&gt;
+
+	</description>
+    </item>
     <item>
       <title>第一篇文章</title>
       <link>http://jbake.org/blog/2018/1.html</link>
