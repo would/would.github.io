@@ -1,0 +1,12 @@
+= 联系我
+2021/5/19
+:jbake-type: post
+:jbake-status: unpublished
+:imagesdir: /images/contact
+:jbake-tags: contact
+
+== 联系我
+
+微信扫一扫，添加好友，了解更多。
+
+image::contact.JPG[width=400]
